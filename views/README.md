@@ -1,0 +1,1 @@
+## Default folder for EJS to look for templates

@@ -1,0 +1,1 @@
+# JS SSR full stack application from scratch
